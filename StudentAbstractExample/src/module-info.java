@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author beakyuz
+ *
+ */
+module StudentAbstractExample {
+}
