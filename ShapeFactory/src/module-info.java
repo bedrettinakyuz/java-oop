@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author beakyuz
- *
- */
-module ShapeFactory {
-}
